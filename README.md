@@ -1,4 +1,4 @@
-Petcu Eduard - 314CC
+Petcu Eduard
 
 =============================
 
