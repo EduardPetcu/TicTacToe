@@ -1,6 +1,6 @@
 Petcu Eduard - 314CC
 
-==============================
+=============================
 
 	Task 1
 
@@ -35,7 +35,7 @@ ale copiilor).
 sa castige si toate tablele de joc din lista de copii au valoarea 1 (T). 
 La final se afiseaza arborele si_sau.
 		
-================================
+=============================
 
 	Task 3
 
@@ -54,5 +54,6 @@ se apeleaza reciproc recursiv. Functia maximum returneaza valoarea maxima
 a fiilor unui nod iar functia minimum returneaza valoarea minima a fiilor
 unui nod.
 
-===============================
+=============================
+
 Timp de lucru total: 14 ore
